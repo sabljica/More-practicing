@@ -1,0 +1,9 @@
+C:\Users\Sabljica\source\repos\MVCDemoDB\bin\Debug\MVCDemoDB.dacpac
+C:\Users\Sabljica\source\repos\MVCDemoDB\bin\Debug\MVCDemoDB.dll
+C:\Users\Sabljica\source\repos\MVCDemoDB\bin\Debug\MVCDemoDB.pdb
+C:\Users\Sabljica\source\repos\MVCDemoDB\obj\Debug\Model.xml
+C:\Users\Sabljica\source\repos\MVCDemoDB\obj\Debug\refactor.xml
+C:\Users\Sabljica\source\repos\MVCDemoDB\obj\Debug\postdeploy.sql
+C:\Users\Sabljica\source\repos\MVCDemoDB\obj\Debug\predeploy.sql
+C:\Users\Sabljica\source\repos\MVCDemoDB\obj\Debug\MVCDemoDB.dll
+C:\Users\Sabljica\source\repos\MVCDemoDB\obj\Debug\MVCDemoDB.pdb
